@@ -1,1 +1,0 @@
-A smart attendance management system that uses facial recognition technology to automatically mark student or employee attendance. Captures and verifies faces in real-time, stores attendance records securely, and reduces manual effort. Built with [Python/OpenCV/Face Recognition Library] for accurate and efficient identification.
